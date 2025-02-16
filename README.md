@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aygun Tataev</h1>
-<h3 align="center">3D Artist, Modeler, and Animator. Linux user and Software Developer.</h3>
+<h3 align="center">3D Artist, Modeler, and Animator. Linux user and Software Engineer.</h3>
 
 - 🔭 I’m currently working on **a hub app.**
 
 - 🌱 I’m currently learning **FlutterFlow**
 
-- 👨‍💻 All of my projects are available at [ayguntataev.com](ayguntataev.com)
-
-- 📝 I regularly write articles on [octaneforblender.com](octaneforblender.com)
-
-- 💬 Ask me about **3D Rendering**
+- 👨‍💻 All of my projects: [ayguntataev.com](ayguntataev.com)
 
 - 📫 How to reach me **Social Media**
 
