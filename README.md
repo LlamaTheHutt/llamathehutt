@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FlutterFlow**
 
-- 👨‍💻 All of my projects: [ayguntataev.com](ayguntataev.com)
+- 👨‍💻 All of my projects: [ayguntataev.com](https://www.ayguntataev.com)
 
 - 📫 How to reach me **Social Media**
 
