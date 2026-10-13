@@ -15,8 +15,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Portfolio-ayguntataev.com-white" />
-  <img src="https://img.shields.io/badge/3D Animation-atataev.com-white" />
-  <img src="https://img.shields.io/badge/App-rrite.com-white" />
+  <img src="https://img.shields.io/badge/App-rrite.ca-white" />
 </div>
 
 <br>
